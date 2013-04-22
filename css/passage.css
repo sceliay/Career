@@ -1,0 +1,68 @@
+@charset "utf-8";
+/* CSS Document */
+.left{
+	border-right:1px solid #5B5B13;
+	min-height:540px;
+	width:62%;
+	float:left;
+	padding:2%;
+}
+
+.right{
+	width:32%;
+	float:right;
+	overflow: hidden;
+}
+
+.left a,.left a:link{
+	font-size:13px;
+	color:#92921F;
+	text-decoration: none;
+	padding:1%;
+}
+
+.left a:hover,.left a:active{
+	color: #CDCD2C;
+}
+
+.title{
+	text-align:center;
+	font-size:22px;
+	border-bottom:1px solid #333;
+	padding-bottom:2%;
+}
+
+.content{
+	margin:2%;
+	min-height:500px !important;
+	padding:2%;
+}
+
+label{
+	vertical-align: top;
+	font-size:13px;
+}
+
+textarea{
+	vertical-align: top;
+}
+
+.discuss-one{
+	padding:2%;
+	margin-bottom:2%;
+	border:1px dotted #92921F;
+}
+
+.discuss-one span{
+	font-size:12px;
+}
+
+.comment{
+	margin-top:4%;
+	padding-top:2%;
+	border-top:1px solid #92921F;
+}
+
+.button-primary{
+	padding::2% 4%;
+}

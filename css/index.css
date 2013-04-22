@@ -1,0 +1,146 @@
+@charset "utf-8";
+/* CSS Document */
+
+.left{
+	border-right:1px solid #5B5B13;
+	min-height:540px;
+	width:33%;
+	float:left;
+}
+
+.news{
+	height:300px;
+	margin:5%;
+	padding:5%;
+	border:1px dotted #5B5B13;
+}
+
+.news span{
+	font-size:16px;
+	font-weight: bold;
+}
+
+.news span span{
+	font-size:14px;
+	color:#5B5B13;
+}
+
+.news ul li a,.news ul li a:link{
+	text-decoration:none;
+	color:#5B5B13;
+}
+
+.news ul li a:hover,.news ul li a:active{
+	color:#A6A624;
+	text-decoration:underline;
+}
+
+.news ul{
+	height:210px;
+}
+
+.news ul li{
+	margin-right:2%;
+	padding:0;
+	list-style-type: none;
+	list-style-position: inside;
+	border-bottom-width: 2px;
+	border-bottom-style: dotted;
+	border-bottom-color: #74761B;
+}
+
+.news a,.news a:link{
+	text-decoration:none;
+	color:#3A3A0C;
+	text-align:right;
+}
+
+.news a:hover,.news a:active{
+	color:#A6A624;
+	text-decoration:underline;
+}
+
+.ads{
+	text-align:center;
+	width:100%;
+	margin:0 auto;
+	height:240px;
+}
+
+.right{
+	width:64%;
+	float:right;
+	overflow: hidden;
+}
+
+.li-before{
+	display:block;
+	list-style: none;
+	cursor: pointer;
+	margin:2% 0 0 1%;
+	font-size:14px;
+	text-decoration: none;
+	color: #E7E7E7;
+	padding:1% 2% 1% 2%;
+	float:left;
+	border:2px solid #000;
+	background-color: #000;
+}
+
+.right li:hover{
+	color: #5B5B13;
+	border:2px solid #A2A224;
+	background-color: #EFF0BB;
+}
+
+.li-after{
+	display:block;
+	list-style: none;
+	cursor: pointer;
+	margin:2% 0 0 1%;
+	font-size:14px;
+	text-decoration: none;
+	padding:1% 2% 1% 2%;
+	float:left;
+	color: #5B5B13;
+	border:2px solid #A2A224;
+	background-color: #EFF0BB;
+}
+
+#findJob,#findPerson,#findHelp{
+	width:100%;
+	min-height:490px;
+}
+
+#findPerson,#findHelp{
+	display:none;
+}
+
+table{
+	float:left;
+	border: 1px solid #999;
+}
+
+table tr td{
+	padding:2% 4% 2% 4%;
+}
+
+table a,table a:link{
+	text-decoration:none;
+	color:#3A3A0C;
+	text-align:right;
+}
+
+table a:hover,table a:active{
+	color:#A6A624;
+	text-decoration:underline;
+}
+
+.onePart{
+	border-right: 1px solid #999;
+}
+
+.one{
+	border-bottom: 2px dotted #74761B;
+	padding:2%;
+}

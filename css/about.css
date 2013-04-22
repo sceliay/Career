@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+h3{
+	color:#E7E7E7;
+	background-color: #5B5B13;
+	padding:1%;
+	margin-bottom:1%;
+}
+
+h2{
+	color:#5B5B13;
+	margin:0;
+	padding:0;
+}
+
+li{
+	margin-bottom:5%;
+}
+
+li p{
+	width:96%;
+	margin:3% auto;
+	text-indent: 2em;
+	line-height: 1.5em;
+}

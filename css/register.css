@@ -1,0 +1,83 @@
+@charset "utf-8";
+/* CSS Document */
+
+table{
+	border:dotted #333 1px;
+	padding:2%;
+	width:100%;
+}
+
+table tr td{
+	padding:0 0 0 3%;
+}
+
+h3{
+	color:#E7E7E7;
+	background-color: #5B5B13;
+	padding:2%;
+	margin-bottom:1%;
+	font-size:20px;
+}
+
+
+h2,h4{
+	clear:both;
+	color:#84841C;
+	margin:2%;
+}
+
+h5{
+	clear:both;
+	color:#A7A723;
+	margin:1% 0 0 2%;
+}
+
+.li-before{
+	display:block;
+	list-style: none;
+	cursor: pointer;
+	margin:0 0 2% 2%;
+	font-size:14px;
+	text-decoration: none;
+	color: #E7E7E7;
+	padding:1% 2% 1% 2%;
+	float:left;
+	border:2px solid #000;
+	background-color: #000;
+}
+
+li:hover{
+	color: #5B5B13;
+	border:2px solid #A2A224;
+	background-color: #EFF0BB;
+}
+
+.li-after{
+	display:block;
+	list-style: none;
+	cursor: pointer;
+	margin:0 0 2% 2%;
+	font-size:14px;
+	text-decoration: none;
+	padding:1% 2% 1% 2%;
+	float:left;
+	color: #5B5B13;
+	border:2px solid #A2A224;
+	background-color: #EFF0BB;
+}
+
+#student,#company{
+	clear:both;
+	width:100%;
+	min-height:490px;
+}
+
+#company{
+	display:none;
+}
+
+#right,#wrong,#Cright,#Cwrong{
+	font-size:12px;
+	display:none;
+}
+

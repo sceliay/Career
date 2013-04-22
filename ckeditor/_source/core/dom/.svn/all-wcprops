@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom
+END
+text.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/text.js
+END
+walker.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/walker.js
+END
+node.js
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/node.js
+END
+elementpath.js
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/elementpath.js
+END
+domobject.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/domobject.js
+END
+window.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/window.js
+END
+rangelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/rangelist.js
+END
+element.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/element.js
+END
+range.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/range.js
+END
+document.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/document.js
+END
+event.js
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/event.js
+END
+nodelist.js
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/nodelist.js
+END
+documentfragment.js
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/documentfragment.js
+END
+comment.js
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/188/branches/jelly-jolly-mysql-dist/src/main/webapp/ckeditor/_source/core/dom/comment.js
+END

@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+.left{
+	border-right:1px solid #5B5B13;
+	min-height:540px;
+	width:33%;
+	float:left;
+	text-align:center;
+}
+
+.left p{
+	text-align:left;
+	margin:6% 6% 6% 10%;
+	font-size:14px;
+}
+
+.left a,.left a:link{
+	font-size:13px;
+	color:#92921F;
+	text-decoration: none;
+	padding:1%;
+}
+
+.left a:hover,.left a:active{
+	color: #CDCD2C;
+}
+
+.right{
+	width:66%;
+	float:right;
+	overflow: hidden;
+}
+
+h3{
+	color:#E7E7E7;
+	background-color: #5B5B13;
+	padding:1%;
+	margin-bottom:1%;
+}
